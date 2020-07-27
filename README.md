@@ -4,6 +4,3 @@ A-Frameと AR.jsこれら２つのJavaScriptライブラリを利用
 
 ### マーカー
 ![マーカー](model_obj/pattern-marker.png)
-
-### 競合テスト
-変更２
